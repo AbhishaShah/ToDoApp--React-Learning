@@ -57,7 +57,7 @@ h5 {
   border: none;
   margin-left: -5px;
 }
-.inbox {
+.inbox,.outbox{
   height: auto;
   margin: 20px 10px;
 }
